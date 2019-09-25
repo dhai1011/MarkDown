@@ -21,9 +21,9 @@
 ![汽车](images/汽车.jpg  "car")
 
 - 图片引用链接 
-  - 外部图片
-![baidu][baidu_logo]
-  - 内部图片 
+  - 外部图片    
+  ![baidu][baidu_logo]
+  - 内部图片   
 ![][汽车]
 ## 引用
 > 这是个引文。  
