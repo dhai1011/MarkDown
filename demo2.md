@@ -20,11 +20,11 @@
 ![](images/汽车.jpg)
 ![汽车](images/汽车.jpg  "car")
 
-- 图片应用链接 
+- 图片引用链接 
   - 外部图片
-  ![baidu][baidu_logo]
+![baidu][baidu_logo]
   - 内部图片 
-  ![][汽车]
+![][汽车]
 ## 引用
 > 这是个引文。  
                                          出自《出处》
